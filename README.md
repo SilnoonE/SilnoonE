@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- Header Cover -->
 <img src="./banner.svg" alt="Silnoon" width="100%" />
 
 <br />
@@ -12,35 +12,27 @@
 
 <br />
 
-<!-- Social Links -->
-<a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8"><img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-EF4444?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:silnon2@naver.com"><img src="https://img.shields.io/badge/Email-silnon2%40naver.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br />
-
-<!-- Highlights -->
-<img src="https://img.shields.io/badge/Android%20Apps-25%2B%20Shipped-10B981?style=flat-square&logo=googleplay&logoColor=white" />
-<img src="https://img.shields.io/badge/Installs-1%2C400%2B-3B82F6?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Rating-%E2%98%85%204.4-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Build%20in%20Public-8B5CF6?style=flat-square" />
+<!-- Links -->
+<a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E293B?style=for-the-badge&logo=linkedin&logoColor=f8fafc" /></a>
+<a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8"><img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-334155?style=for-the-badge&logo=youtube&logoColor=f8fafc" /></a>
+<a href="mailto:silnon2@naver.com"><img src="https://img.shields.io/badge/Email-silnon2%40naver.com-475569?style=for-the-badge&logo=gmail&logoColor=f8fafc" /></a>
 
 </div>
 
 <br />
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🌿 About Me
 
 - **Product Builder & Android Developer** — 2026년 개발을 시작해 사업자 등록 후, Google Play에서 **25개 이상의 Android 앱**을 직접 기획·개발·운영해 왔습니다.
 - **User-Driven Iteration** — 앱을 출시한 뒤 직접 써 보고, 사용자 리뷰를 읽으며 불편한 지점을 코드 수정으로 연결하는 과정을 가장 중요하게 생각합니다.
 - **Deepening Fundamentals** — 빠르게 만들어 본 경험 위에 **Kotlin, 자료구조·알고리즘, 앱 구조**를 차근차근 쌓으며, 기존에 만든 코드를 다시 꺼내 점검하고 리팩토링하고 있습니다.
-- **Writing & Sharing** — 기획부터 출시, 운영, 코드 개선까지의 고민과 기록을 **GitHub · LinkedIn · YouTube(시도노트)** 에 꾸준히 남깁니다.
+- **Writing & Sharing** — 기획부터 출시, 운영, 코드 개선까지의 고민과 기록을 **GitHub · LinkedIn · YouTube(`시도노트`)** 에 꾸준히 남깁니다.
 
 <br />
 
----
+<img src="./divider.svg" width="100%" />
 
 ### ✨ Featured Works
 
@@ -71,7 +63,7 @@
 
 <br />
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🧩 How I Work
 
@@ -79,35 +71,32 @@
 
 <br />
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🛠️ Tech & Focus
 
 <div align="left">
 
 **Main**  
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0F172A" />
-<img src="https://img.shields.io/badge/Android%20Studio-4285F4?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite%20%2F%20Room-0284C7?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Android%20Studio-1E293B?style=flat-square&logo=androidstudio&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/SQLite%20%2F%20Room-1E293B?style=flat-square&logo=sqlite&logoColor=94A3B8" />
 
 **Web & Tools**  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=CBD5E1" />
+<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=CBD5E1" />
+<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=CBD5E1" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-334155?style=flat-square&logo=github&logoColor=f8fafc" />
 
 **Currently Studying**  
-<img src="https://img.shields.io/badge/Kotlin%20Deep%20Dive-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/App%20Architecture-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/Refactoring-F59E0B?style=flat-square" />
+`Kotlin Deep Dive` · `Data Structures & Algorithms` · `App Architecture` · `Refactoring`
 
 </div>
 
 <br />
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 📝 Where I Share
 
