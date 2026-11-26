@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Cover -->
-<img src="./banner.svg?v=4" alt="Silnoon" width="100%" />
+<img src="https://raw.githubusercontent.com/SilnoonE/SilnoonE/5bcaafdab9c1e1c256bd4d65b664e912171df561/banner.svg" alt="Silnoon" width="100%" />
 
 <br />
 
@@ -67,7 +67,7 @@
 
 ### 🧩 How I Work
 
-<img src="./how-i-work.svg?v=4" alt="How I Work: Observe, Ship, Listen, Refine" width="100%" />
+<img src="https://raw.githubusercontent.com/SilnoonE/SilnoonE/761aeb507ed57db2cb1b17d546b43fb30d07b308/how-i-work.svg" alt="How I Work: Observe, Ship, Listen, Refine" width="100%" />
 
 <br />
 
@@ -107,6 +107,6 @@
 
 <div align="center">
 
-<img src="./footer.svg?v=4" alt="오늘의 작은 시도가 내일의 쓸모 있는 서비스가 되기를." width="100%" />
+<img src="https://raw.githubusercontent.com/SilnoonE/SilnoonE/801ed64b6c78d4ff871b2ed401b8c18ec87a20e0/footer.svg" alt="오늘의 작은 시도가 내일의 쓸모 있는 서비스가 되기를." width="100%" />
 
 </div>
