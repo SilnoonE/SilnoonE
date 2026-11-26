@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:3b4f6b,100:64748b&height=210&section=header&text=Silnoon&fontSize=54&fontColor=f8fafc&fontAlignY=38&desc=Building%20products%20from%20everyday%20life%2C%20sharing%20the%20process.&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+<img src="./banner.svg" alt="Silnoon" width="100%" />
 
 <br />
 
@@ -13,15 +13,9 @@
 <br />
 
 <!-- Links -->
-<a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=for-the-badge&logo=linkedin&logoColor=f8fafc" />
-</a>
-<a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8">
-  <img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-475569?style=for-the-badge&logo=youtube&logoColor=f8fafc" />
-</a>
-<a href="mailto:silnon2@naver.com">
-  <img src="https://img.shields.io/badge/Email-silnon2%40naver.com-64748b?style=for-the-badge&logo=gmail&logoColor=f8fafc" />
-</a>
+<a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=for-the-badge&logo=linkedin&logoColor=f8fafc" /></a>
+<a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8"><img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-475569?style=for-the-badge&logo=youtube&logoColor=f8fafc" /></a>
+<a href="mailto:silnon2@naver.com"><img src="https://img.shields.io/badge/Email-silnon2%40naver.com-64748b?style=for-the-badge&logo=gmail&logoColor=f8fafc" /></a>
 
 </div>
 
@@ -88,19 +82,19 @@
 
 <div align="left">
 
-**Main**  
+**Main**
 <img src="https://img.shields.io/badge/Kotlin-334155?style=flat-square&logo=kotlin&logoColor=7F52FF" />
 <img src="https://img.shields.io/badge/Android-334155?style=flat-square&logo=android&logoColor=3DDC84" />
 <img src="https://img.shields.io/badge/Android%20Studio-334155?style=flat-square&logo=androidstudio&logoColor=3DDC84" />
 <img src="https://img.shields.io/badge/SQLite%20%2F%20Room-334155?style=flat-square&logo=sqlite&logoColor=0ea5e9" />
 
-**Web & Tools**  
+**Web & Tools**
 <img src="https://img.shields.io/badge/TypeScript-475569?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-475569?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-475569?style=flat-square&logo=github&logoColor=f8fafc" />
 
-**Currently Studying**  
+**Currently Studying**
 `Kotlin Deep Dive` · `Data Structures & Algorithms` · `App Architecture` · `Refactoring`
 
 </div>
@@ -119,7 +113,5 @@
 <div align="center">
 
 *오늘의 작은 시도가 내일의 쓸모 있는 서비스가 되기를.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748b,50:3b4f6b,100:1e293b&height=100&section=footer" width="100%" />
 
 </div>
