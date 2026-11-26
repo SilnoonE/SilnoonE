@@ -1,48 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="216" viewBox="0 0 840 216" fill="none">
   <defs>
     <linearGradient id="c1" x1="0" y1="0" x2="410" y2="100" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#EFF6FF"/>
-      <stop offset="100%" stop-color="#DBEAFE"/>
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
     </linearGradient>
     <linearGradient id="c2" x1="430" y1="0" x2="840" y2="100" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#ECFDF5"/>
-      <stop offset="100%" stop-color="#D1FAE5"/>
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#273549"/>
     </linearGradient>
     <linearGradient id="c3" x1="0" y1="116" x2="410" y2="216" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFFBEB"/>
-      <stop offset="100%" stop-color="#FEF3C7"/>
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#273549"/>
     </linearGradient>
     <linearGradient id="c4" x1="430" y1="116" x2="840" y2="216" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#F5F3FF"/>
-      <stop offset="100%" stop-color="#EDE9FE"/>
+      <stop offset="0%" stop-color="#273549"/>
+      <stop offset="100%" stop-color="#334155"/>
     </linearGradient>
   </defs>
 
   <!-- Card 1: Observe -->
-  <rect x="1" y="1" width="408" height="98" rx="14" fill="url(#c1)" stroke="#93C5FD" stroke-width="1.5"/>
-  <rect x="20" y="20" width="32" height="24" rx="8" fill="#2563EB"/>
-  <text x="36" y="36" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">01</text>
-  <text x="62" y="37" fill="#1E3A8A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Observe</text>
-  <text x="20" y="70" fill="#1E293B" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500">일상에서 느낀 작은 불편을 기획으로 옮깁니다.</text>
+  <rect x="1" y="1" width="408" height="98" rx="14" fill="url(#c1)" stroke="#475569" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="20" y="20" width="32" height="24" rx="8" fill="#334155"/>
+  <text x="36" y="36" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">01</text>
+  <text x="62" y="37" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Observe</text>
+  <text x="20" y="70" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500">일상에서 느낀 작은 불편을 기획으로 옮깁니다.</text>
 
   <!-- Card 2: Ship -->
-  <rect x="431" y="1" width="408" height="98" rx="14" fill="url(#c2)" stroke="#6EE7B7" stroke-width="1.5"/>
-  <rect x="450" y="20" width="32" height="24" rx="8" fill="#059669"/>
-  <text x="466" y="36" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">02</text>
-  <text x="492" y="37" fill="#065F46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Ship</text>
-  <text x="450" y="70" fill="#1E293B" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12" font-weight="500">완벽을 기다리기보다 동작하는 서비스로 세상에 내놓습니다.</text>
+  <rect x="431" y="1" width="408" height="98" rx="14" fill="url(#c2)" stroke="#475569" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="450" y="20" width="32" height="24" rx="8" fill="#3B4F6B"/>
+  <text x="466" y="36" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">02</text>
+  <text x="492" y="37" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Ship</text>
+  <text x="450" y="70" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12" font-weight="500">완벽을 기다리기보다 동작하는 서비스로 세상에 내놓습니다.</text>
 
   <!-- Card 3: Listen -->
-  <rect x="1" y="117" width="408" height="98" rx="14" fill="url(#c3)" stroke="#FCD34D" stroke-width="1.5"/>
-  <rect x="20" y="136" width="32" height="24" rx="8" fill="#D97706"/>
-  <text x="36" y="152" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">03</text>
-  <text x="62" y="153" fill="#92400E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Listen</text>
-  <text x="20" y="186" fill="#1E293B" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500">사용자 리뷰와 실제 사용 흐름에서 개선점을 찾습니다.</text>
+  <rect x="1" y="117" width="408" height="98" rx="14" fill="url(#c3)" stroke="#475569" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="20" y="136" width="32" height="24" rx="8" fill="#3B4F6B"/>
+  <text x="36" y="152" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">03</text>
+  <text x="62" y="153" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Listen</text>
+  <text x="20" y="186" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500">사용자 리뷰와 실제 사용 흐름에서 개선점을 찾습니다.</text>
 
   <!-- Card 4: Refine -->
-  <rect x="431" y="117" width="408" height="98" rx="14" fill="url(#c4)" stroke="#C4B5FD" stroke-width="1.5"/>
-  <rect x="450" y="136" width="32" height="24" rx="8" fill="#7C3AED"/>
-  <text x="466" y="152" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">04</text>
-  <text x="492" y="153" fill="#5B21B6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Refine</text>
-  <text x="450" y="186" fill="#1E293B" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500">코드를 다시 읽고, 더 단단한 구조로 고쳐 나갑니다.</text>
+  <rect x="431" y="117" width="408" height="98" rx="14" fill="url(#c4)" stroke="#64748B" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="450" y="136" width="32" height="24" rx="8" fill="#475569"/>
+  <text x="466" y="152" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">04</text>
+  <text x="492" y="153" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Refine</text>
+  <text x="450" y="186" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500">코드를 다시 읽고, 더 단단한 구조로 고쳐 나갑니다.</text>
 </svg>
