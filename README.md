@@ -5,7 +5,7 @@
 
 <br />
 
-### 안녕하세요, 일상의 작은 불편을 서비스로 만드는 윤혜찬입니다.
+### 안녕하세요, 일상의 작은 불편을 서비스로 만드는 Silnoon입니다.
 
 *문학을 읽던 시선으로 사람을 관찰하고, 코드를 써서 실제 쓰이는 앱으로 옮깁니다.*  
 *만드는 데서 멈추지 않고, 사용자의 목소리를 다시 코드로 연결하며 성장하고 있습니다.*
@@ -14,7 +14,7 @@
 
 <!-- Links -->
 <a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-hyechan%20yoon-334155?style=for-the-badge&logo=linkedin&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=for-the-badge&logo=linkedin&logoColor=f8fafc" />
 </a>
 <a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8">
   <img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-475569?style=for-the-badge&logo=youtube&logoColor=f8fafc" />
@@ -111,7 +111,7 @@
 
 ### 📝 Where I Share
 
-- **LinkedIn** — AI 시대의 개발, UX/UI, 인문학적 관점과 매일의 실행 기록 → [hyechan yoon](https://www.linkedin.com/in/hyechan-yoon-a171a83b5/)
+- **LinkedIn** — AI 시대의 개발, UX/UI, 인문학적 관점과 매일의 실행 기록 → [LinkedIn 프로필](https://www.linkedin.com/in/hyechan-yoon-a171a83b5/)
 - **YouTube (`시도노트`)** — 직접 만든 앱·프로그램 출시 이야기와 취준·개발 회고 → [@시도노트](https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8)
 
 <br />
