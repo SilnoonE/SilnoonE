@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Wave -->
+<!-- Header Banner -->
 <img src="./banner.svg" alt="Silnoon" width="100%" />
 
 <br />
@@ -12,10 +12,18 @@
 
 <br />
 
-<!-- Links -->
-<a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=for-the-badge&logo=linkedin&logoColor=f8fafc" /></a>
-<a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8"><img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-475569?style=for-the-badge&logo=youtube&logoColor=f8fafc" /></a>
-<a href="mailto:silnon2@naver.com"><img src="https://img.shields.io/badge/Email-silnon2%40naver.com-64748b?style=for-the-badge&logo=gmail&logoColor=f8fafc" /></a>
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/hyechan-yoon-a171a83b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8"><img src="https://img.shields.io/badge/YouTube-%EC%8B%9C%EB%8F%84%EB%85%B8%ED%8A%B8-EF4444?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="mailto:silnon2@naver.com"><img src="https://img.shields.io/badge/Email-silnon2%40naver.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br />
+
+<!-- Highlights -->
+<img src="https://img.shields.io/badge/Android%20Apps-25%2B%20Shipped-10B981?style=flat-square&logo=googleplay&logoColor=white" />
+<img src="https://img.shields.io/badge/Installs-1%2C400%2B-3B82F6?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Rating-%E2%98%85%204.4-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Build%20in%20Public-8B5CF6?style=flat-square" />
 
 </div>
 
@@ -67,12 +75,7 @@
 
 ### 🧩 How I Work
 
-```text
-1. Observe   일상에서 느낀 작은 불편을 기획으로 옮깁니다.
-2. Ship      완벽을 기다리기보다 동작하는 서비스로 세상에 내놓습니다.
-3. Listen    사용자 리뷰와 실제 사용 흐름에서 개선점을 찾습니다.
-4. Refine    코드를 다시 읽고, 더 단단한 구조로 고쳐 나갑니다.
-```
+<img src="./how-i-work.svg" alt="How I Work: Observe, Ship, Listen, Refine" width="100%" />
 
 <br />
 
@@ -82,20 +85,23 @@
 
 <div align="left">
 
-**Main**
-<img src="https://img.shields.io/badge/Kotlin-334155?style=flat-square&logo=kotlin&logoColor=7F52FF" />
-<img src="https://img.shields.io/badge/Android-334155?style=flat-square&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/Android%20Studio-334155?style=flat-square&logo=androidstudio&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/SQLite%20%2F%20Room-334155?style=flat-square&logo=sqlite&logoColor=0ea5e9" />
+**Main**  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/Android%20Studio-4285F4?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite%20%2F%20Room-0284C7?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-**Web & Tools**
-<img src="https://img.shields.io/badge/TypeScript-475569?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-475569?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-475569?style=flat-square&logo=github&logoColor=f8fafc" />
+**Web & Tools**  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-**Currently Studying**
-`Kotlin Deep Dive` · `Data Structures & Algorithms` · `App Architecture` · `Refactoring`
+**Currently Studying**  
+<img src="https://img.shields.io/badge/Kotlin%20Deep%20Dive-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/App%20Architecture-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Refactoring-F59E0B?style=flat-square" />
 
 </div>
 
@@ -112,6 +118,6 @@
 
 <div align="center">
 
-*오늘의 작은 시도가 내일의 쓸모 있는 서비스가 되기를.*
+<img src="./footer.svg" alt="오늘의 작은 시도가 내일의 쓸모 있는 서비스가 되기를." width="100%" />
 
 </div>
