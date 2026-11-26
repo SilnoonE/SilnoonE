@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="840" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="55%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#475569"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="120" x2="840" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#94A3B8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#CBD5E1" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="140" x2="840" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E2E8F0" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#94A3B8" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="200" rx="16" fill="url(#bg)"/>
+  <path d="M0 142 C180 105, 320 175, 520 135 C660 108, 760 128, 840 112 L840 200 L0 200 Z" fill="url(#wave1)"/>
+  <path d="M0 162 C210 190, 390 125, 610 160 C720 176, 790 156, 840 148 L840 200 L0 200 Z" fill="url(#wave2)"/>
+  <circle cx="96" cy="48" r="2" fill="#E2E8F0" fill-opacity="0.45"/>
+  <circle cx="142" cy="72" r="1.5" fill="#CBD5E1" fill-opacity="0.35"/>
+  <circle cx="718" cy="44" r="2.2" fill="#E2E8F0" fill-opacity="0.45"/>
+  <circle cx="756" cy="76" r="1.5" fill="#CBD5E1" fill-opacity="0.3"/>
+  <circle cx="686" cy="84" r="1.2" fill="#F8FAFC" fill-opacity="0.35"/>
+  <text x="420" y="94" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2">Silnoon</text>
+  <text x="420" y="130" text-anchor="middle" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" letter-spacing="0.4">Building products from everyday life, sharing the process.</text>
+</svg>
